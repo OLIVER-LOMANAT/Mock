@@ -149,6 +149,22 @@
       "ratings": 4.7,
       "review_count": 10800,
       "objectives": "Master TypeScript types; Learn type safety; Integrate with React; Build scalable applications"
-    }
+    },
+
+    {
+    "id": "js-master-2024-advanced",
+    "title": "Advanced JavaScript Mastery 2024",
+    "description": "Master advanced JavaScript concepts including ES6+, functional programming, design patterns, and performance optimization. Build complex applications with confidence.",
+    "thumbnail": "https://images.unsplash.com/photo-1575089976121-8ed7b2a54265?w=500&auto=format&fit=crop",
+    "duration": 52.5,
+    "owner": "Alex Thompson",
+    "status": "Published",
+    "difficulty": "Advanced",
+    "enrollment_count": 18000,
+    "tags": "javascript, advanced, es6, functional programming, design patterns, performance",
+    "ratings": 4.9,
+    "review_count": 14200,
+    "objectives": "Master advanced JavaScript concepts; Learn functional programming; Understand design patterns; Optimize application performance; Build scalable apps"
+}
   ]
 }
