@@ -1,62 +1,64 @@
-[
-  {
-    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-    "title": "Complete Web Development Bootcamp 2024",
-    "description": "Learn full-stack web development with HTML, CSS, JavaScript, React, Node.js, and MongoDB. Build real-world projects and become job-ready.",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500",
-    "duration": 45.5,
-    "owner": "Hitesh Choudhary",
-    "status": "Published",
-    "difficulty": "Intermediate",
-    "enrollment_count": 12500,
-    "tags": "web development, javascript, react, nodejs, fullstack",
-    "ratings": 4.6,
-    "review_count": 8900,
-    "objectives": "Master frontend and backend development; Build responsive websites; Learn database management; Deploy applications to cloud"
-  },
-  {
-    "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
-    "title": "Data Science & Machine Learning Masterclass",
-    "description": "Comprehensive data science course covering Python, statistics, machine learning algorithms, and data visualization techniques.",
-    "thumbnail": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=500",
-    "duration": 62.0,
-    "owner": "Krish Naik",
-    "status": "Published",
-    "difficulty": "Advanced",
-    "enrollment_count": 8900,
-    "tags": "data science, python, machine learning, AI, pandas",
-    "ratings": 4.7,
-    "review_count": 6700,
-    "objectives": "Learn Python for data analysis; Master machine learning algorithms; Build predictive models; Create data visualizations"
-  },
-  {
-    "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
-    "title": "Mobile App Development with Flutter & Dart",
-    "description": "Build beautiful, native mobile applications for iOS and Android using Flutter framework and Dart programming language.",
-    "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500",
-    "duration": 38.5,
-    "owner": "Piyush Garg",
-    "status": "Published",
-    "difficulty": "Beginner",
-    "enrollment_count": 15600,
-    "tags": "flutter, dart, mobile development, cross-platform, android, ios",
-    "ratings": 4.8,
-    "review_count": 11200,
-    "objectives": "Build cross-platform mobile apps; Master Flutter widgets; Learn state management; Publish apps to stores"
-  },
-  {
-    "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
-    "title": "DevOps & Cloud Computing Complete Guide",
-    "description": "Learn DevOps practices, CI/CD pipelines, Docker, Kubernetes, AWS, and cloud infrastructure management.",
-    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500",
-    "duration": 55.0,
-    "owner": "Shubham Londhe",
-    "status": "Published",
-    "difficulty": "Intermediate",
-    "enrollment_count": 7200,
-    "tags": "devops, docker, kubernetes, aws, cloud, cicd",
-    "ratings": 4.6,
-    "review_count": 5400,
-    "objectives": "Master Docker containerization; Learn Kubernetes orchestration; Implement CI/CD pipelines; Deploy to cloud platforms"
-  }
-]
+{
+  "courses": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "title": "Complete Web Development Bootcamp 2024",
+      "description": "Learn full-stack web development with HTML, CSS, JavaScript, React, Node.js, and MongoDB. Build real-world projects and become job-ready.",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500",
+      "duration": 45.5,
+      "owner": "Hitesh Choudhary",
+      "status": "Published",
+      "difficulty": "Intermediate",
+      "enrollment_count": 12500,
+      "tags": "web development, javascript, react, nodejs, fullstack",
+      "ratings": 4.6,
+      "review_count": 8900,
+      "objectives": "Master frontend and backend development; Build responsive websites; Learn database management; Deploy applications to cloud"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "title": "Data Science & Machine Learning Masterclass",
+      "description": "Comprehensive data science course covering Python, statistics, machine learning algorithms, and data visualization techniques.",
+      "thumbnail": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=500",
+      "duration": 62.0,
+      "owner": "Krish Naik",
+      "status": "Published",
+      "difficulty": "Advanced",
+      "enrollment_count": 8900,
+      "tags": "data science, python, machine learning, AI, pandas",
+      "ratings": 4.7,
+      "review_count": 6700,
+      "objectives": "Learn Python for data analysis; Master machine learning algorithms; Build predictive models; Create data visualizations"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "title": "Mobile App Development with Flutter & Dart",
+      "description": "Build beautiful, native mobile applications for iOS and Android using Flutter framework and Dart programming language.",
+      "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500",
+      "duration": 38.5,
+      "owner": "Piyush Garg",
+      "status": "Published",
+      "difficulty": "Beginner",
+      "enrollment_count": 15600,
+      "tags": "flutter, dart, mobile development, cross-platform, android, ios",
+      "ratings": 4.8,
+      "review_count": 11200,
+      "objectives": "Build cross-platform mobile apps; Master Flutter widgets; Learn state management; Publish apps to stores"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
+      "title": "DevOps & Cloud Computing Complete Guide",
+      "description": "Learn DevOps practices, CI/CD pipelines, Docker, Kubernetes, AWS, and cloud infrastructure management.",
+      "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500",
+      "duration": 55.0,
+      "owner": "Shubham Londhe",
+      "status": "Published",
+      "difficulty": "Intermediate",
+      "enrollment_count": 7200,
+      "tags": "devops, docker, kubernetes, aws, cloud, cicd",
+      "ratings": 4.6,
+      "review_count": 5400,
+      "objectives": "Master Docker containerization; Learn Kubernetes orchestration; Implement CI/CD pipelines; Deploy to cloud platforms"
+    }
+  ]
+}
